@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/Collections/Collections.iml" filepath="$PROJECT_DIR$/../JavaJunior/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/ExceptionTest/Exception.iml" filepath="$PROJECT_DIR$/../JavaJunior/ExceptionTest/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/Generic/Generic.iml" filepath="$PROJECT_DIR$/../JavaJunior/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/IO/IO.iml" filepath="$PROJECT_DIR$/../JavaJunior/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/JavaJunior.iml" filepath="$PROJECT_DIR$/../JavaJunior/JavaJunior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/JavaSenior/JavaSenior.iml" filepath="$PROJECT_DIR$/../JavaJunior/JavaSenior/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaJunior/Regular/Regular.iml" filepath="$PROJECT_DIR$/../JavaJunior/Regular/Regular.iml" />
+    </modules>
+  </component>
+</project>
