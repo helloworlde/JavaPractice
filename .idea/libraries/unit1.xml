@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unit1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaJunior/out/production/unit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
