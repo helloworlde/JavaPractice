@@ -1,4 +1,4 @@
-package basic;
+package lockandsnchronized;
 
 /**
  * Created by alpha on 16-8-11.

@@ -1,4 +1,4 @@
-package basic;
+package lockandsnchronized;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

@@ -1,4 +1,4 @@
-package reflectandgenice;
+package reflectandgeneric;
 
 import java.lang.reflect.Array;
 

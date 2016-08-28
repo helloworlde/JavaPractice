@@ -1,4 +1,4 @@
-import serialize.SerializeMutable;
+import nio2.AttributeVIewTest;
 
 import java.io.IOException;
 
@@ -28,7 +28,30 @@ public class MainMethod {
 //        new ReadObject().test();
 //        new WriterTeacher().test();
 //        new ReadTeacher().test();
-        new SerializeMutable().test();
+//        new SerializeMutable().test();
+//        new TransientTests().test();
+//        new ReplaceTest().test();
+//        new BufferTest().test();
+//        new FileChannerTest().test();
+//        new RandomFileChannelTest().test();
+//        new ReadFile().test();
+
+        //获取Java支持的全部字符集
+//        SortedMap<String,Charset> charsetSortedMap = Charset.availableCharsets();
+//        for (String s : charsetSortedMap.keySet()
+//                ) {
+//            System.out.println(s+"-->"+charsetSortedMap.get(s));
+//        }
+
+//        new CharsetTransform().test();
+//        new FileLockTest().test();
+//        new PathTest().test();
+//        new FilesTest().test();
+//        new FileVisitorTest().test();
+//        new WatchServiceTest().test();
+        new AttributeVIewTest().test();
     }
+
+
 
 }

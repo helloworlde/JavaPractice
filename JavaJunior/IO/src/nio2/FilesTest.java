@@ -10,8 +10,9 @@ import java.util.List;
 
 /**
  * Created by alpha on 16-8-8.
+ * Paths和Files工具类的使用
  */
-public class FIlesTest {
+public class FilesTest {
     public void test() {
         try {
             Files.copy(Paths.get("poem.txt"), new FileOutputStream("c.txt"));
@@ -28,7 +29,6 @@ public class FIlesTest {
             poem.add("Wood");
 
             Files.write(Paths.get("poem.txt"), poem);
-            System.out.println("----------------------");
             Files.list(Paths.get(".")).forEach(path -> System.out.println(path));
             System.out.println("----------------------");
             Files.lines(Paths.get("poem.txt")).forEach(line -> System.out.println(line));

@@ -1,4 +1,4 @@
-package conn;
+package executesql;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -11,6 +11,7 @@ import java.util.Properties;
 
 /**
  * Created by alpha on 16-8-15.
+ * 执行数据库定义语言
  */
 public class ExecuteDDL {
     private String driver;

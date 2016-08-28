@@ -1,4 +1,4 @@
-package conn;
+package executesql;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -10,6 +10,7 @@ import java.util.Properties;
 
 /**
  * Created by alpha on 16-8-15.
+ * 执行数据库操作
  */
 public class ExcuteDML {
     private String driver;
