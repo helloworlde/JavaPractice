@@ -1,110 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2ffbb9-932c-4873-8260-b347e80cabb6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaJunior/JavaJunior.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/Database.iml" afterPath="$PROJECT_DIR$/Database/Database.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/MainMethod.java" afterPath="$PROJECT_DIR$/Database/src/MainMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/conn/ConnMySQL.java" afterPath="$PROJECT_DIR$/Database/src/conn/ConnMySQL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/CallableStatementTest.java" afterPath="$PROJECT_DIR$/Database/src/executesql/CallableStatementTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/ExcuteDML.java" afterPath="$PROJECT_DIR$/Database/src/executesql/ExcuteDML.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/ExecuteDDL.java" afterPath="$PROJECT_DIR$/Database/src/executesql/ExecuteDDL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/ExecuteSQL.java" afterPath="$PROJECT_DIR$/Database/src/executesql/ExecuteSQL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/LoginFrame.java" afterPath="$PROJECT_DIR$/Database/src/executesql/LoginFrame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/PreparedStatementTest.java" afterPath="$PROJECT_DIR$/Database/src/executesql/PreparedStatementTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/executesql/ResultSetTest.java" afterPath="$PROJECT_DIR$/Database/src/executesql/ResultSetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/CachedRowSetPage.java" afterPath="$PROJECT_DIR$/Database/src/rowset/CachedRowSetPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/CachedRowSetTest.java" afterPath="$PROJECT_DIR$/Database/src/rowset/CachedRowSetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/JDBCRowSetTest.java" afterPath="$PROJECT_DIR$/Database/src/rowset/JDBCRowSetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/QueryExecutor.java" afterPath="$PROJECT_DIR$/Database/src/rowset/QueryExecutor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/RowSetFactoryTest.java" afterPath="$PROJECT_DIR$/Database/src/rowset/RowSetFactoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/rowset/Test.java" afterPath="$PROJECT_DIR$/Database/src/rowset/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/transanction/DatabaseDataTest.java" afterPath="$PROJECT_DIR$/Database/src/transanction/DatabaseDataTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/src/transanction/TransanctionTest.java" afterPath="$PROJECT_DIR$/Database/src/transanction/TransanctionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JavaJunior/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/Collections/Collections.iml" afterPath="$PROJECT_DIR$/JavaJunior/Collections/Collections.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/Generic/Generic.iml" afterPath="$PROJECT_DIR$/JavaJunior/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/IO.iml" afterPath="$PROJECT_DIR$/JavaJunior/IO/IO.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/MainMethod.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/MainMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/BufferTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/BufferTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/CharsetTransform.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/CharsetTransform.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/FileChannerTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/FileChannerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/FileLockTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/FileLockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/RandomFileChannelTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/RandomFileChannelTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio/ReadFile.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio/ReadFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/FileVisitorTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/FileVisitorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/FilesTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/FilesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/PathTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/PathTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/WatchServiceTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/nio2/WatchServiceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/Person.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/ReplaceTest.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/ReplaceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/TransientTests.java" afterPath="$PROJECT_DIR$/JavaJunior/IO/src/serialize/TransientTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/JavaSenior/JavaSenior.iml" afterPath="$PROJECT_DIR$/JavaJunior/JavaSenior/JavaSenior.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaJunior/Regular/Regular.iml" afterPath="$PROJECT_DIR$/JavaJunior/Regular/Regular.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/MainMethod.java" afterPath="$PROJECT_DIR$/MultiThread/src/MainMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/basic/Account.java" afterPath="$PROJECT_DIR$/MultiThread/src/basic/Account.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/basic/FirstThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/basic/FirstThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/basic/JoinThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/basic/JoinThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/basic/SecondThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/basic/SecondThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/basic/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/MultiThread/src/basic/ThreadLocalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/blockqueuethread/Consumer.java" afterPath="$PROJECT_DIR$/MultiThread/src/blockqueuethread/Consumer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/blockqueuethread/Producer.java" afterPath="$PROJECT_DIR$/MultiThread/src/blockqueuethread/Producer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/executors/CalTask.java" afterPath="$PROJECT_DIR$/MultiThread/src/executors/CalTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/executors/PrintTask.java" afterPath="$PROJECT_DIR$/MultiThread/src/executors/PrintTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/executors/ThreadPoolTest.java" afterPath="$PROJECT_DIR$/MultiThread/src/executors/ThreadPoolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/Account.java" afterPath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/Account.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/DepositThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/DepositThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/DrawThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/lockandsnchronized/DrawThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/threadexception/ExceptionTest.java" afterPath="$PROJECT_DIR$/MultiThread/src/threadexception/ExceptionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/threadexception/MyExceptionHandler.java" afterPath="$PROJECT_DIR$/MultiThread/src/threadexception/MyExceptionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/threadgroup/MyThread.java" afterPath="$PROJECT_DIR$/MultiThread/src/threadgroup/MyThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiThread/src/threadgroup/ThreadGroupTest.java" afterPath="$PROJECT_DIR$/MultiThread/src/threadgroup/ThreadGroupTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/MainMethod.java" afterPath="$PROJECT_DIR$/Net/src/MainMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/junior/InetAddressTest.java" afterPath="$PROJECT_DIR$/Net/src/junior/InetAddressTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/junior/URLDecoderTest.java" afterPath="$PROJECT_DIR$/Net/src/junior/URLDecoderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/multithread/ClientThread.java" afterPath="$PROJECT_DIR$/Net/src/multithread/ClientThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/multithread/MyClient.java" afterPath="$PROJECT_DIR$/Net/src/multithread/MyClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/multithread/MyServer.java" afterPath="$PROJECT_DIR$/Net/src/multithread/MyServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/multithread/ServerThread.java" afterPath="$PROJECT_DIR$/Net/src/multithread/ServerThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/proxy/ProxySelectorTest.java" afterPath="$PROJECT_DIR$/Net/src/proxy/ProxySelectorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/proxy/ProxyTest.java" afterPath="$PROJECT_DIR$/Net/src/proxy/ProxyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/socket/Client.java" afterPath="$PROJECT_DIR$/Net/src/socket/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/socket/HalfCloseClient.java" afterPath="$PROJECT_DIR$/Net/src/socket/HalfCloseClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/socket/HalfCloseServer.java" afterPath="$PROJECT_DIR$/Net/src/socket/HalfCloseServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/socket/Server.java" afterPath="$PROJECT_DIR$/Net/src/socket/Server.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/talk/DefinedMap.java" afterPath="$PROJECT_DIR$/Net/src/talk/DefinedMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/talk/DefinedProtocol.java" afterPath="$PROJECT_DIR$/Net/src/talk/DefinedProtocol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/talk/Server.java" afterPath="$PROJECT_DIR$/Net/src/talk/Server.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/talk/ServerThread.java" afterPath="$PROJECT_DIR$/Net/src/talk/ServerThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/udp/UdpClient.java" afterPath="$PROJECT_DIR$/Net/src/udp/UdpClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/udp/UdpServer.java" afterPath="$PROJECT_DIR$/Net/src/udp/UdpServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/urlconnection/DownUtil.java" afterPath="$PROJECT_DIR$/Net/src/urlconnection/DownUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/urlconnection/GetPostTest.java" afterPath="$PROJECT_DIR$/Net/src/urlconnection/GetPostTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Net/src/urlconnection/MultiThreadDown.java" afterPath="$PROJECT_DIR$/Net/src/urlconnection/MultiThreadDown.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/MainMethod.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/MainMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ArrayTest1.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ArrayTest1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ArrayTest2.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ArrayTest2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/CreateJFrame.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/CreateJFrame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ExtendedObjectPoolFactory.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ExtendedObjectPoolFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ObjectPoolFactory.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/ObjectPoolFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/Person.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/createobj/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/load/BootstrapTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/load/BootstrapTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/load/ClassLoaderPropTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/load/ClassLoaderPropTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/load/ClassTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/load/ClassTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/load/MethodParameterTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/load/MethodParameterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/load/URLClassLoaderTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/load/URLClassLoaderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/Dog.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/DogInvokationHandler.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/DogInvokationHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/DogUtil.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/DogUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/GunDog.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/GunDog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/MyProxyFactory.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/MyProxyFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/ProxyTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/proxytest/ProxyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ArrayTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/GenericTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/GenericTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ObjectFactoryTest.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ObjectFactoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ObjectFactoryTest2.java" afterPath="$PROJECT_DIR$/ReflectAndLoad/src/reflectandgeneric/ObjectFactoryTest2.java" />
-    </list>
+    <list default="true" id="1e2ffbb9-932c-4873-8260-b347e80cabb6" name="Default" comment="" />
     <ignored path="IdeaProjects.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -955,7 +852,7 @@
       <workItem from="1471949024686" duration="7793000" />
       <workItem from="1472033383159" duration="8719000" />
       <workItem from="1472126758666" duration="4401000" />
-      <workItem from="1472391660567" duration="1968000" />
+      <workItem from="1472391660567" duration="2928000" />
     </task>
     <task id="LOCAL-00001" summary="- 添加了输入输出中的NIO2&#10;  - 使用了FIles工具类&#10;  - 使用了Paths工具类&#10;  - 使用了WatchService监视文件变化&#10;  - 使用了访问文件属性">
       <created>1470663733953</created>
@@ -968,7 +865,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118222000" />
+    <option name="totallyTimeSpent" value="119182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
@@ -982,7 +879,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2751046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.71548116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16915688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
